@@ -4,9 +4,12 @@ COMMON
 
  **************************/
 
+html {
+  background: #00abac;
+}
+
 body {
   font-family: "monospace", sans-serif;
-  background-color: #00abac;
 }
 
 .font-primary {
