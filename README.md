@@ -3,7 +3,7 @@ This is  my small portfolio using HTML / CSS and Bootstrap. I will be using this
 
 [Live Heroku Deployment](https://portfolioyogi.herokuapp.com/)
 
-![image]()
+
 
 ##Technologies Used
 
